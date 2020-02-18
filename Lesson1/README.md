@@ -1,9 +1,9 @@
-# Lesson1 <br/>
+# Lesson1
 1.1.2 <br/>
 #5. Both MediaLib and SecondClass have main() methods. <br/>
-#7. String, float, double, and int are four variable types. 
-#17. Song@75412c2f is shown.
-Conclusion :
+#7. String, float, double, and int are four variable types. <br/>
+#17. Song@75412c2f is shown. <br/>
+Conclusion : <br/>
 #1. The advantages of accessors and mutators is that they are easily modified and stored, yet they also are somewhat
 difficult to understand immediately.
 #2. The song, movie, and book classes have the same title and rating variables, but have different class names.
