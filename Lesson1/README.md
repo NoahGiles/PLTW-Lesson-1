@@ -1,5 +1,5 @@
-# Lesson1
-1.1.2
+# Lesson1 <br/>
+1.1.2 <br/>
 #5. Both MediaLib and SecondClass have main() methods. <br/>
 #7. String, float, double, and int are four variable types. 
 #17. Song@75412c2f is shown.
