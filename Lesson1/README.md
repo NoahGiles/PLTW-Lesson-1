@@ -20,4 +20,17 @@ a. This naming convention is called Camel Case. <br/>
 b. totalCost should be a double because the song prices are doubles. <br/>
 Conclusion : <br/>
 #1. You would have more than one constructor for a class in order to store different values for variables. If you had a constructor for a movie class with rating, title, and duration, another constructor might be used for another movie.
-
+1.1.4 <br/>
+#1. <br/>
+1.You can tell that strings are objects and not primitive types because they are initialized with a capital first letter. <br/>
+2.null means that an object doesn't have a reference yet.<br/>
+3.You could create a string with the value "This is a test message new String() or just string = (message). <br/>
+4.A superclass is a parent class.<br/>
+5.The superclass of String is the Object class.<br/>
+6.To determine what method you can call to determine an object's class,  <br/>
+#2. <br/>
+#10. <br/>
+#25. <br/>
+#27. <br/>
+#28. <br/>
+1.1.5 <br/>

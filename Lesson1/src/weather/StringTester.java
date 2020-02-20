@@ -3,6 +3,10 @@ package weather;
 public class StringTester {
     public static void main(String[] args)
     {
+        int temperature;
+        int windchill;
+        int humidity;
+        String description;
         String weatherCondition = "scattered showers day";
 
         System.out.println(weatherCondition.indexOf("thunder"));
