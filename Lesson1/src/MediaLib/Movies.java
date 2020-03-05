@@ -1,3 +1,5 @@
+package MediaLib;
+
 public class Movies {
     private String title;
     private int rating;

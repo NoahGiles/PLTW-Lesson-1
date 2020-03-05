@@ -1,3 +1,5 @@
+package MediaLib;
+
 public class MediaLib {
     public static void main(String[] args)
     {
