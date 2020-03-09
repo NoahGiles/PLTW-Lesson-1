@@ -59,6 +59,6 @@ c. In the question “where do you come from”, the keywords are likely “wher
 #4. <br/>
 #13. <br/>
 <br/>
-**Conclusion :** <br/>
+**Conclusion : ** <br/>
 1. A chatbot might differentiate between different contexts of "post" in that it could look for other keywords, such as "fence" in<br/>
 "fencepost" or "please" in "please post this". <br/>
