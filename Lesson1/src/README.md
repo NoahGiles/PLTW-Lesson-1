@@ -33,9 +33,14 @@ c. if (temperature < 32 || temperature > 32) <br/>
 1. if (str != "" && str != null && str.length() < 80)"<br/>
 2.  if (!(str == "")) <br/>
 ## 1.1.5 <br/>
-#2. <br/>
+#2. The first algorithm simulates dice rolls in that it rolls up to 12 to account for two dice, and the second<br/>
+rolls one die and adds another onto it. Both might serve their purpose well, but the first would not be able to print a<br/>
+reliable number for the numbers on two individual dice. <br/>
 **Conclusion :** <br/>
-<br/>
+#1. The code finds a length of between 1 and (length - 1) so it doesn't retrieve the name from the beginning or the very end.<br/>
+The result of this could be anything from everything but the first letter of a name to only the last two.
+#2. The two statements differ in that the first multiplies Math.random() by 10 and then adds 1, while the second<br/>
+adds 10 to 1 and then multiplies it by Math.random(). <br/>
 ## 1.1.6 <br/>
 #1.<br/>
 #2. <br/>
