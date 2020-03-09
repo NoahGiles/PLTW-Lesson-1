@@ -38,11 +38,11 @@ rolls one die and adds another onto it. Both might serve their purpose well, but
 reliable number for the numbers on two individual dice. <br/>
 **Conclusion :** <br/>
 #1. The code finds a length of between 1 and (length - 1) so it doesn't retrieve the name from the beginning or the very end.<br/>
-The result of this could be anything from everything but the first letter of a name to only the last two.
+The result of this could be anything from everything but the first letter of a name to only the last two. <br/>
 #2. The two statements differ in that the first multiplies Math.random() by 10 and then adds 1, while the second<br/>
 adds 10 to 1 and then multiplies it by Math.random(). <br/>
-## 1.1.6 <br/>
-#1.<br/>
+## 1.1.6
+#1. <br/>
 #2. <br/>
 #3. <br/>
 #4 (Skip p2). <br/>
