@@ -59,6 +59,6 @@ I must do the following (1-4 and 13) in-class for I do not have IntelliJ on my c
 #4. <br/>
 #13. <br/>
 <br/>
-**Conclusion : ** <br/>
+**Conclusion :** <br/>
 1. A chatbot might differentiate between different contexts of "post" in that it could look for other keywords, such as "fence" in<br/>
 "fencepost" or "please" in "please post this". <br/>
