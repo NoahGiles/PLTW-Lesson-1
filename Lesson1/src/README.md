@@ -53,9 +53,11 @@ C : "I'll be back."<br/>
 b. The chatbot seems to respond mostly to nouns as keywords, as well as pronouns.
 c. In the question “where do you come from”, the keywords are likely “where”, “you”, and “from”
 ### I must do the following in-class for I do not have InteliJ on my chromebook : 
+<p>
 #2. <br/>
 #3. <br/>
 #4 (Skip p2). <br/>
 #13. <br/>
+  </p>
 **Conclusion :** <br/>
 <br/>
