@@ -52,12 +52,13 @@ U : “Goodbye”<br/>
 C : "I'll be back."<br/>
 b. The chatbot seems to respond mostly to nouns as keywords, as well as pronouns.
 c. In the question “where do you come from”, the keywords are likely “where”, “you”, and “from”
-### I must do the following in-class for I do not have InteliJ on my chromebook : 
-<p>
+### I must do the following in-class for I do not have IntelliJ on my chromebook : 
+<br/>
 #2. <br/>
 #3. <br/>
-#4 (Skip p2). <br/>
+#4. <br/>
 #13. <br/>
-  </p>
-**Conclusion :** <br/>
 <br/>
+**Conclusion :** <br/>
+1. A chatbot might differentiate between different contexts of "post" in that it could look for other keywords, such as "fence" in<br/>
+"fencepost" or "please" in "please post this". <br/>
