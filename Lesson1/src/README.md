@@ -43,18 +43,21 @@ The result of this could be anything from everything but the first letter of a n
 adds 10 to 1 and then multiplies it by Math.random(). <br/>
 ## 1.1.6
 #1. <br/>
+a. I'll be back.
 U :"Hello"<br/> 
-C : ""<br/>
+C : "Welcome Earth creature. Please enter your identity."<br/>
 U : “Who are you?” <br/>
-C : ""<br/>
+C : "Umm... I am the All-Seeing Lord and Master of the Universe. Yeah. that's it... the All-Seeing Lord and Master of the Universe. What do you want?"<br/>
 U : “Goodbye”<br/>
-C : ""<br/>
-The chatbot seems to respond mostly to nouns as keywords, as well as pronouns.
-In the question “where do you come from”, the keywords are likely “where”, “you”, and “from”
-
+C : "I'll be back."<br/>
+b. The chatbot seems to respond mostly to nouns as keywords, as well as pronouns.
+c. In the question “where do you come from”, the keywords are likely “where”, “you”, and “from”
+I must do the following in-class for I do not have InteliJ on my chromebook : 
+-------------
 #2. <br/>
 #3. <br/>
 #4 (Skip p2). <br/>
 #13. <br/>
+-------------
 **Conclusion :** <br/>
 <br/>
