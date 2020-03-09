@@ -18,7 +18,7 @@ I prefer using getters and setters for the mutator favorite. <br/>
 #12. <br/>
 a. This naming convention is called Camel Case. <br/>
 b. totalCost should be a double because the song prices are doubles. <br/>
-*Conclusion :* <br/>
+**Conclusion :** <br/>
 #1. You would have more than one constructor for a class in order to store different values for variables. If you had a constructor for a movie class with rating, title, and duration, another constructor might be used for another movie. <br/>
 ## 1.1.4 <br/>
 #1. <br/>
