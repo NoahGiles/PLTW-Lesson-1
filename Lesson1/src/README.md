@@ -1,5 +1,5 @@
-# Lesson1
-1.1.2 <br/>
+## Lesson1
+# 1.1.2 <br/>
 #5. Both MediaLib and SecondClass have main() methods. <br/>
 #7. String, float, double, and int are four variable types. <br/>
 #17. Song@75412c2f is shown. <br/>
@@ -8,7 +8,7 @@ Conclusion : <br/>
 difficult to understand immediately. <br/>
 #2. The song, movie, and book classes have the same title and rating variables, but have different class names.
 To reduce duplication in these classes, it is possible to change what information that the classes provide. <br/>
-1.1.3 <br/>
+# 1.1.3 <br/>
 #8. If I were to make a mutator method to set the favorite variable, it might look like <br/>
 public void setFavorite(Boolean q) <br/>
 {<br/>
@@ -33,4 +33,4 @@ Conclusion : <br/>
 #25. <br/>
 #27. <br/>
 #28. <br/>
-1.1.5 <br/>
+# 1.1.5 <br/>
