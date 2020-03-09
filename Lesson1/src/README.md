@@ -25,7 +25,16 @@ b. totalCost should be a double because the song prices are doubles. <br/>
 #27. <br/>
 #28. <br/>
 **Conclusion :**<br/>
+<br/>
 ## 1.1.5 <br/>
-#2. 
+#2. <br/>
 **Conclusion :** <br/>
+<br/>
 ## 1.1.6 <br/>
+#1.<br/>
+#2. <br/>
+#3. <br/>
+#4 (Skip p2). <br/>
+#13. <br/>
+**Conclusion :** <br/>
+<br/>
