@@ -30,8 +30,8 @@ a. if (temperature <= 75) <br/>
 b. if (temperature > 100) <br/>
 c. if (temperature < 32 || temperature > 32) <br/>
 **Conclusion :**<br/>
-1. if (str != "" && str != null && str.length() < 80)"<br/>
-2.  if (!(str == "")) <br/>
+1. Boundary conditions for str might look like "if (str != "" && str != null && str.length() < 80)"<br/>
+2.  Using DeMorgan's Law, the "(if str != "")" may be simplified to "if (!(str == ""))" <br/>
 ## 1.1.5 <br/>
 #2. The first algorithm simulates dice rolls in that it rolls up to 12 to account for two dice, and the second<br/>
 rolls one die and adds another onto it. Both might serve their purpose well, but the first would not be able to print a<br/>
