@@ -21,11 +21,17 @@ b. totalCost should be a double because the song prices are doubles. <br/>
 **Conclusion :** <br/>
 #1. You would have more than one constructor for a class in order to store different values for variables. If you had a constructor for a movie class with rating, title, and duration, another constructor might be used for another movie. <br/>
 ## 1.1.4 <br/>
-#25. <br/>
+#25. a, b, and c appear to use short-circuit evaluation, given they both have || and && operators.<br/>
 #27. <br/>
+a. if (!sunny && !clear) <br/> 
+b. if (!(!raining || !snowing)) <br/>
 #28. <br/>
+a. if (temperature <= 75) <br/>
+b. if (temperature > 100) <br/>
+c. if (temperature < 32 || temperature > 32) <br/>
 **Conclusion :**<br/>
-<br/>
+1. if (str != "" && string != null && string.length() < 80) <br/>
+2.  <br/>
 ## 1.1.5 <br/>
 #2. <br/>
 **Conclusion :** <br/>
