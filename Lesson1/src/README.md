@@ -30,8 +30,8 @@ a. if (temperature <= 75) <br/>
 b. if (temperature > 100) <br/>
 c. if (temperature < 32 || temperature > 32) <br/>
 **Conclusion :**<br/>
-1. if (str != "" && string != null && string.length() < 80) <br/>
-2.  <br/>
+1. if (str != "" && str != null && str.length() < 80)"<br/>
+2.  if (!(str == "")) <br/>
 ## 1.1.5 <br/>
 #2. <br/>
 **Conclusion :** <br/>
