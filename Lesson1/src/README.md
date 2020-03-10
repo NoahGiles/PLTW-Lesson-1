@@ -51,7 +51,7 @@ C : "Umm... I am the All-Seeing Lord and Master of the Universe. Yeah. that's it
 U : “Goodbye”<br/>
 C : "I'll be back."<br/>
 b. The chatbot seems to respond mostly to nouns as keywords, as well as pronouns.
-c. In the question “where do you come from”, the keywords are likely “where”, “you”, and “from”
+c. In the question “where do you come from”, the keywords are likely “where”, “you”, and “from” <br/>
 I must do the following (1-4 and 13) in-class for I do not have IntelliJ on my chromebook : <br/>
 <br/>
 #2. <br/>
